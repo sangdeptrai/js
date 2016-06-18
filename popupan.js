@@ -1,7 +1,7 @@
-	var url_popup = 'hangchuanus.com/danh-muc/apple-iphone-5s/';
+	var url_popup = 'http://bit.ly/1UTY8Vj';
 
       //<![CDATA[
-	  // var url_ppp = 'hangchuanus.com/danh-muc/apple-iphone-6/';
+	  // var url_ppp = 'http://bit.ly/1ZY5d92';
       function addEvent(obj, eventName, func){
         if (obj.attachEvent)
         {
@@ -34,6 +34,6 @@
       });  
       //]]>
 	/*
-	var url_popup = 'hangchuanus.com/danh-muc/apple-iphone-6-plus/';
+	var url_popup = 'http://bit.ly/1PzqIan';
 	<script src="https://jgoogle.googlecode.com/svn/trunk/popup.js"></script>
 	*/
