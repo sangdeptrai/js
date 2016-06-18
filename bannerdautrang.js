@@ -116,7 +116,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='hangchuanus.com/danh-muc/apple-iphone-5s/' target='_blank'><img src='http://hangchuanus.com/wp-content/uploads/2016/06/iphone-5s-xach-tay-gia-re-hcm.jpg' width='500px'/>Apple iPhone 5S  giá rẻ nhất Hồ Chí Minh</a>. Chỉ có tại Hangchuanus.com <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='http://hangchuanus.com/danh-muc/apple-iphone-5s/' target='_blank'><img src='http://hangchuanus.com/wp-content/uploads/2016/06/iphone-5s-xach-tay-gia-re-hcm.jpg' width='500px'/>Apple iPhone 5S  giá rẻ nhất Hồ Chí Minh</a>. Chỉ có tại Hangchuanus.com <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
