@@ -182,9 +182,9 @@ function displayToc(filter) {
 // this function creates a three-column table and adds it to the screen
    var numDisplayed = 0;
    var tocTable = '';
-   var tocHead1 = 'POST TITLE';
+   var tocHead1 = 'Tiêu đề';
    var tocTool1 = 'Click to sort by title';
-   var tocHead2 = 'POST DATE';
+   var tocHead2 = 'Ngày';
    var tocTool2 = 'Click to sort by date';
    var tocHead3 = 'Danh mục';
    var tocTool3 = '';
